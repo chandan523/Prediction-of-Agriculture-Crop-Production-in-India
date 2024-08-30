@@ -23,7 +23,7 @@ The dataset includes the following key parameters:
 * Decision Duration Recommended
 * Produce
 
-Data Sources: The data was sourced from Upskill Data Science Internship Project 
+**Data Sources:** The data was sourced from Upskill Data Science Internship Project 
 
 **Technologies Used**
 
